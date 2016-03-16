@@ -14,7 +14,7 @@ public class Task8 {
         	 for(i = 0; i < vector.length;i++){
       		   vector[i] = (int)(100 * Math.random());}
       		 
-        	 int sNechetnye = new int[vector.length];
+        	 int sNechetnye= 0;
              if(vector.length<=0){System.out.print("Неверный размер вектора");}
              else if (vector.length==1){System.out.print(vector.length);} 
              else {

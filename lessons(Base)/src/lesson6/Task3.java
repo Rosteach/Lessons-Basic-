@@ -10,7 +10,7 @@ public class Task3 {
 	public static void main(String[] args) throws Exception{
 		String sFileName = "file1.txt";
 		
-		addStroks(sFileName);
+		addStroks(sFileName,"eryr");
 		
 }
 	public static void addStroks(String sFileName,String s) throws Exception{
